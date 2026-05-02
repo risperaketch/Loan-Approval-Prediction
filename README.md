@@ -275,7 +275,7 @@ The residual diagnostics reveal that mild heteroscedasticity persists even after
 **Aketch Adhiambo Okoth**  
 M.S. Business Analytics — Montclair State University (GPA 3.8)  
 📧 aaketch1997@gmail.com | 📞 +1 (862) 405-9654  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · [Portfolio](https://your-portfolio-url.com)
+🔗 [LinkedIn]([https://linkedin.com/in/aketchrisperokoth]) · [GitHub](https://github.com/risperaketch) · [Portfolio](https://your-portfolio-url.com)
 
 *Seeking Data Analyst / Business Analyst roles — Spring 2026 · New Jersey / Remote*
 
