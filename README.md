@@ -217,6 +217,19 @@ The residual diagnostics reveal that mild heteroscedasticity persists even after
 | 11 | `confusion_matrices.png` | 2×2 confusion matrices for all 4 models |
 | 12 | `model_accuracy_comparison.png` | Bar chart: accuracy across all 4 models vs. 85% target |
 
+<img width="1632" height="557" alt="image" src="https://github.com/user-attachments/assets/840af0e4-469a-4f00-a953-638002a7d314" />
+<img width="929" height="752" alt="image" src="https://github.com/user-attachments/assets/d63a037c-e67a-456f-8fd9-9fc33ad177e3" />
+<img width="1302" height="668" alt="image" src="https://github.com/user-attachments/assets/257523ee-cf52-41b4-b67d-7eb256bd6596" />
+<img width="1082" height="532" alt="image" src="https://github.com/user-attachments/assets/b4407298-92bd-481d-aa21-2783a1333ee4" />
+<img width="1259" height="557" alt="image" src="https://github.com/user-attachments/assets/b79a990c-2d4f-49d7-b19f-7fb3a7150500" />
+<img width="1522" height="557" alt="image" src="https://github.com/user-attachments/assets/c6a0d334-a6e5-47cd-8806-837ed12d7f97" />
+<img width="1522" height="557" alt="image" src="https://github.com/user-attachments/assets/a8db7d2b-c298-499e-9772-e0b3d6e5a357" />
+<img width="862" height="642" alt="image" src="https://github.com/user-attachments/assets/f5561a65-64c4-4dfc-ab65-4052df426551" />
+<img width="1082" height="891" alt="image" src="https://github.com/user-attachments/assets/86769c93-ce0d-40d6-8824-6b57a86ab5a4" />
+<img width="1742" height="557" alt="image" src="https://github.com/user-attachments/assets/d705a1f6-5632-4070-96c5-0e7f12108c83" />
+<img width="1200" height="1113" alt="image" src="https://github.com/user-attachments/assets/b2dfb07c-04e1-4bc5-8de3-bf73fea36f03" />
+<img width="1082" height="532" alt="image" src="https://github.com/user-attachments/assets/473a58a1-54dd-4edb-9405-03250c87f6ab" />
+
 ---
 
 ## 🧰 Tools & Technologies
